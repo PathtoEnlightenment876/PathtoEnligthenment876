@@ -2,26 +2,36 @@
 
 # 👋 Welcome to My Profile
 
-<h2>
-  <span style="animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;">
-    Full Stack Developer | Web Developer
-  </span>
-</h2>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
+  <defs>
+    <style>
+      @keyframes typing {
+        0% { width: 0; }
+        100% { width: 26em; }
+      }
+      @keyframes blink {
+        0%, 49% { border-right-color: #00ff00; }
+        50%, 100% { border-right-color: transparent; }
+      }
+      .typing-text {
+        font-size: 32px;
+        font-weight: bold;
+        font-family: 'Courier New', monospace;
+        color: #00ff00;
+        overflow: hidden;
+        white-space: nowrap;
+        width: 0;
+        animation: typing 4s steps(30, end) forwards, blink 0.75s step-end infinite;
+        border-right: 3px solid #00ff00;
+      }
+    </style>
+  </defs>
+  <text x="20" y="60" class="typing-text">Full Stack Developer | Web Dev</text>
+</svg>
 
 ```
 $ Welcome! I'm passionate about building web applications
 ```
-
-<style>
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: #00ff00 }
-  }
-</style>
 
 </div>
 
@@ -112,6 +122,6 @@ If you find my projects interesting or want to collaborate, feel free to reach o
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
-**Made with ❤️ by Your Name**
+
 
 </div>
