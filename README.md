@@ -2,32 +2,7 @@
 
 # 👋 Welcome to My Profile
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="800" height="100">
-  <defs>
-    <style>
-      @keyframes typing {
-        0% { width: 0; }
-        100% { width: 26em; }
-      }
-      @keyframes blink {
-        0%, 49% { border-right-color: #00ff00; }
-        50%, 100% { border-right-color: transparent; }
-      }
-      .typing-text {
-        font-size: 32px;
-        font-weight: bold;
-        font-family: 'Courier New', monospace;
-        color: #00ff00;
-        overflow: hidden;
-        white-space: nowrap;
-        width: 0;
-        animation: typing 4s steps(30, end) forwards, blink 0.75s step-end infinite;
-        border-right: 3px solid #00ff00;
-      }
-    </style>
-  </defs>
-  <text x="20" y="60" class="typing-text">Full Stack Developer | Web Dev</text>
-</svg>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=24&duration=4000&pause=500&lines=Full+Stack+Developer;Web+Developer;PHP+%2B+Laravel+Expert;MySQL+Database+Specialist&center=true&width=500&height=50)](https://github.com/)
 
 ```
 $ Welcome! I'm passionate about building web applications
