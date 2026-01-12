@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Profile
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=24&duration=4000&pause=500&lines=Full+Stack+Developer;Web+Developer;PHP+%2B+Laravel+Expert;MySQL+Database+Specialist&center=true&width=500&height=50)](https://github.com/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Code&size=24&duration=4000&pause=500&lines=Web+Developer;PHP+%2B+Laravel+Expert;MySQL+Database+Specialist&center=true&width=500&height=50)](https://github.com/)
 
 ```
 $ Welcome! I'm passionate about building web applications
